@@ -4,7 +4,7 @@ Edgar Gael Garcia Camacho 3-W
 
 print(" ")
 
-print("Edgar Gael Garcia Camacho :Pr4_Trabajo_en_clase : ")¨
+print("Edgar Gael Garcia Camacho :Pr4_Trabajo_en_clase : ")
 
 print(" ")
 
